@@ -13,7 +13,7 @@ Trabalho na AcademiaCOde
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-## ESTATITI de LINGUAGENS
+## ESTATITICA de LINGUAGENS
 
 <div>
 <a href="https://github.com/ramonaquiles7">
@@ -21,13 +21,7 @@ Trabalho na AcademiaCOde
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonaquiles7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  ttps://tenor.com/view/monkey-computer-not-working-computer-broken-computer-problems-computer-issues-g
-
   
-<div class="tenor-gif-embed" data-postid="12674712" data-share-method="host" data-aspect-ratio="1.78" data-width="100%"><a href="https://tenor.com/view/monkey-computer-not-working-computer-broken-computer-problems-computer-issues-gif-12674712">Monkey Computer Not Working GIF</a>from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>  
-  
-  
-
   
   
   
